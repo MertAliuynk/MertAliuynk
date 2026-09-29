@@ -20,18 +20,17 @@
 
 ```
 > whoami
-Mert Ali Uynk — yapay zekayla dusunen, kodla insa eden, oyunlarla anlatan bir gelistirici.
+Mert Ali Uynk — yapay zekâ, full stack web ve oyun geliştirme alanlarında çalışan bir yazılım geliştirici.
 
 > mission --print
-Karmasik problemleri sade, akilli ve etkileyici urunlere donusturmek.
-Her satir kod bir deney; her proje bir sinir asma denemesi.
+Karmaşık problemleri sade, akıllı ve etkileyici ürünlere dönüştürmek.
 ```
 
 <br/>
 
 <div align="center">
 
-## 🧬 Teknoloji Arsenalim
+## 🛠️ Teknolojiler
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,typescript,nodejs,unity,cpp,cs,git,docker&theme=dark" />
 
@@ -66,10 +65,7 @@ Oyun sadece eğlence değil, bir deneyim mühendisliğidir. Mekanik, geri bildir
 
 <div align="center">
 
-## 📊 İstatistiksel Kanıt
-
-<img src="https://github-readme-stats.vercel.app/api?username=MertAliuynk&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertAliuynk&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="165"/>
+## 📊 GitHub İstatistikleri
 
 <img src="https://streak-stats.demolab.com/?user=MertAliuynk&theme=synthwave&hide_border=true" width="70%"/>
 
@@ -79,33 +75,9 @@ Oyun sadece eğlence değil, bir deneyim mühendisliğidir. Mekanik, geri bildir
 
 <div align="center">
 
-## 🏆 Kazanımlar
+## 🐍 Katkı Grafiği
 
-<img src="https://github-profile-trophy.vercel.app/?username=MertAliuynk&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📈 Aktivite Ritmi
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MertAliuynk&theme=react-dark&hide_border=true&area=true&custom_title=Commit%20Ritmi" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Kod Yılanı
-
-<!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/MertAliuynk/MertAliuynk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-<!--END_SECTION:snake-->
-
-*(Bu animasyon için repoya `github-snake.yml` workflow dosyasını eklemen gerekiyor — aşağıdaki SETUP.md'de anlatıldı.)*
 
 </div>
 
@@ -113,17 +85,12 @@ Oyun sadece eğlence değil, bir deneyim mühendisliğidir. Mekanik, geri bildir
 
 <div align="center">
 
-## 💭 Felsefe
+## 🎯 Yaklaşım
 
-> *"Zeka, cevap bilmek değil — doğru soruyu sormaktır.*
-> *Ben her gün o soruyu koda, modele ve oyuna soruyorum."*
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*Karmaşık problemleri anlaşılır, ölçeklenebilir ve kullanıcı odaklı çözümlere dönüştürmeyi hedefliyorum.*
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" width="100%"/>
-
-</div>
