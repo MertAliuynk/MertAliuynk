@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=260&section=header&text=MERT%20ALI%20UYNK&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Full%20Stack%20%7C%20Game%20Dev&descAlignY=54&descSize=20" width="100%"/>
 
 <a href="https://github.com/MertAliuynk">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=B983FF&center=true&vCenter=true&width=650&lines=Yapay+Zeka+ile+Dusunuyorum+%F0%9F%A7%A0;Kod+Yazar%2C+Dunyalar+Kururum+%F0%9F%8E%AE;Sinirlari+Zorlamak+Icin+Buradayim+%E2%9A%A1;Full+Stack+%2B+AI+%2B+Game+Dev+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=B983FF&center=true&vCenter=true&width=650&lines=Yapay+Zek%C3%A2+ve+Makine+%C3%96%C4%9Frenmesi;Full+Stack+Web+Geli%C5%9Ftirme;Oyun+Geli%C5%9Ftirme;%C3%96l%C3%A7eklenebilir+ve+Kullan%C4%B1c%C4%B1+Odakl%C4%B1+%C3%87%C3%B6z%C3%BCmler" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -43,19 +43,19 @@ Karmaşık problemleri sade, akıllı ve etkileyici ürünlere dönüştürmek.
 <td width="33%" align="center" valign="top">
 
 ### 🧠 Yapay Zeka / ML
-Reinforcement learning, derin öğrenme mimarileri ve veriden anlam çıkaran sistemler üzerine deneyler yürütüyorum. Model sadece tahmin etmez — **karar verir**.
+Reinforcement learning, derin öğrenme mimarileri ve veri odaklı sistemler üzerine çalışıyorum.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🌐 Full Stack Web
-Uçtan uca ürün geliştiriyorum: hızlı, ölçeklenebilir ve kullanıcı psikolojisini önemseyen arayüzler. Performans kadar **his** de tasarımın parçası.
+Uçtan uca web uygulamaları geliştiriyorum; performanslı, ölçeklenebilir ve kullanıcı dostu arayüzlere odaklanıyorum.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🎮 Oyun Geliştirme
-Oyun sadece eğlence değil, bir deneyim mühendisliğidir. Mekanik, geri bildirim döngüsü ve akış (flow) durumunu birlikte kurguluyorum.
+Unity ve C# ile oyun mekanikleri, oynanış sistemleri ve etkileşimli deneyimler geliştiriyorum.
 
 </td>
 </tr>
