@@ -16,15 +16,13 @@
 
 <br/>
 
-## ⚡ Sinyal
+## 👋 Hakkımda
 
-```
-> whoami
-Mert Ali Uynk — yapay zekâ, full stack web ve oyun geliştirme alanlarında çalışan bir yazılım geliştirici.
+Merhaba, ben **Mert Ali Uynk**. Yapay zekâ, full stack web ve oyun geliştirme alanlarında çalışan bir yazılım geliştiriciyim.
 
-> mission --print
-Karmaşık problemleri sade, akıllı ve etkileyici ürünlere dönüştürmek.
-```
+- 🔭 Reinforcement learning ve derin öğrenme projeleri üzerinde çalışıyorum.
+- 🌱 Modern web teknolojileri ve oyun geliştirme alanlarında kendimi geliştirmeye devam ediyorum.
+- 🤝 Açık kaynak projelerde iş birliğine açığım.
 
 <br/>
 
